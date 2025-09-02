@@ -17,9 +17,7 @@ Python 3.8 or higher
 Qiskit, Qiskit Machine Learning
 Scikit-learn, NumPy, Pandas, Matplotlib, Seaborn
 
-**Use the provided requirements.txt or install directly with:**
-
-bash
+**Use the provided requirements.txt or install directly with:** bash
 pip install qiskit qiskit-machine-learning scikit-learn pandas numpy matplotlib seaborn
 
 **Usage:**
